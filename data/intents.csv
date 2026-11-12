@@ -1,0 +1,263 @@
+utterance,intent
+kya haal hai,smalltalk
+aoa,greeting
+BSCS ki fee batao,fee_structure
+can I still apply,admission_deadline
+B-form chalega,documents_required
+allah hafiz,goodbye
+70 percent inter 80 test merit,merit_calculation
+good afternoon,greeting
+hello bot,greeting
+admission deadline for BSCS,admission_deadline
+labs kaisi hain,campus_life
+minimum percentage kitni chahiye,eligibility
+sports facilities hain,campus_life
+kin students ko scholarship milti hai,scholarships
+merit 80 percent hai admission milega,merit_calculation
+scholarship kaise milegi,scholarships
+hostel ke rules kya hain,hostel
+merit scholarship kaise milegi,scholarships
+ok thanks bye,goodbye
+total fees kitni hongi 4 saal ki,fee_structure
+test ki date kya hai,entry_test
+scholarship ke liye apply kaise karoon,scholarships
+university ki fee kya hai,fee_structure
+how is merit calculated,merit_calculation
+NAT test kya hai,entry_test
+student clubs kon se hain,campus_life
+hostel allotment kab hoti hai,hostel
+ok bye,goodbye
+nice bot,smalltalk
+hostel timing kya hai,hostel
+what is the last date to apply,admission_deadline
+see you later,goodbye
+cafeteria hai,campus_life
+kab tak apply kar sakte hain,admission_deadline
+is hostel available,hostel
+events hote hain,campus_life
+test ke liye registration kaise hoti hai,entry_test
+shukriya,smalltalk
+am I eligible,eligibility
+A levels wale eligible hain,eligibility
+hostel mess kaisa hai,hostel
+BS AI ki fees kitni hai,fee_structure
+tell me a joke,smalltalk
+result card chahiye hota hai,documents_required
+hostel merit par milta hai,hostel
+admission fee kitni hai,fee_structure
+merit calculator,merit_calculation
+domicile kahan se banta hai,documents_required
+salam,greeting
+career counselling hai,campus_life
+acha bot hai,smalltalk
+entry test kab hoga,entry_test
+campus life kaisa hai,campus_life
+semester fee kab jama karani hoti hai,fee_structure
+test clear karna zaroori hai,entry_test
+apply karne ki last date,admission_deadline
+goodbye,goodbye
+fee refund hoti hai,fee_structure
+gym hai,campus_life
+FA wale apply kar sakte hain,eligibility
+hey,greeting
+societies hain,campus_life
+scholarship form kahan se milega,scholarships
+allah hafiz bhai,goodbye
+University of South Asia admissions 2026,admission_deadline
+scholarship test hota hai,scholarships
+is BS Data Science available,programs_offered
+fall admissions kab start hote hain,admission_deadline
+merit formula batao,merit_calculation
+entry test kitne marks ka hota hai,entry_test
+pre medical wale CS kar sakte hain,eligibility
+tum robot ho,smalltalk
+minimum marks kitne chahiye,eligibility
+do I need to pass the entry test,entry_test
+thanks bye,goodbye
+morning,greeting
+calculate my merit,merit_calculation
+admissions open hain,admission_deadline
+merit kitne percent par banta hai,merit_calculation
+HEC scholarship kya hai,scholarships
+best program for CS,programs_offered
+bas itna hi,goodbye
+hostel fee kitni hai,hostel
+85 inter 72 test merit,merit_calculation
+salam bhai,greeting
+inter 85 percent test 70 merit kitna,merit_calculation
+me eligible hoon,eligibility
+hi there,greeting
+what can you do,smalltalk
+need based scholarship kaise milegi,scholarships
+when do admissions open,admission_deadline
+per credit hour fee kya hai,fee_structure
+fee per semester,fee_structure
+CNIC ki copy lagti hai,documents_required
+matric certificate zaroori hai,documents_required
+merit list kab aati hai,merit_calculation
+domicile chahiye hota hai,documents_required
+merit scholarship details,scholarships
+documents kon se chahiye,documents_required
+hostel fee alag hai ya same,fee_structure
+ground hai,campus_life
+chalo bye,goodbye
+hey bot,greeting
+hostel me kitne students rehte hain,hostel
+mera merit check karo,merit_calculation
+what is the fee,fee_structure
+my inter is 90 and test is 80,merit_calculation
+tum insan ho,smalltalk
+kon kon si degrees hain,programs_offered
+bye bye,goodbye
+NUST ki fee kya hai,fee_structure
+how are you,smalltalk
+are there scholarships,scholarships
+documents submit kahan karne hain,documents_required
+thank you,smalltalk
+original documents kab jama honge,documents_required
+fee structure for BE Electrical,fee_structure
+BS AI ke liye eligibility,eligibility
+hello,greeting
+degree programs ki list,programs_offered
+private hostel nearby,hostel
+campus kaisa hai,campus_life
+theek hai,smalltalk
+BSCS program hai,programs_offered
+character certificate zaroori hai,documents_required
+inter 75 test 65 merit kitna banega,merit_calculation
+scholarship mil sakti hai,scholarships
+which documents are required,documents_required
+tumhe kis ne banaya,smalltalk
+assalam o alaikum,greeting
+admission open hone ki date,admission_deadline
+alvida,goodbye
+documents ki list batao,documents_required
+entry test me kya aata hai,entry_test
+bye,goodbye
+internship opportunities hain,campus_life
+debate society hai,campus_life
+girls ke liye environment kaisa hai,campus_life
+who made you,smalltalk
+hey there,greeting
+transport available hai,campus_life
+fee structure batao,fee_structure
+admission fee kitni hoti hai,fee_structure
+which programs are offered,programs_offered
+engineering programs kon se hain,programs_offered
+eligibility kya hai,eligibility
+short courses hain,programs_offered
+NAT test kab hota hai,entry_test
+kon se programs hain,programs_offered
+diploma holders apply kar sakte hain,eligibility
+talent scholarship,scholarships
+form jama karane ki last date,admission_deadline
+thanks,smalltalk
+FSc pre engineering required hai,eligibility
+ok great,smalltalk
+minimum CGPA kitna chahiye,eligibility
+phir milenge,goodbye
+kitni fee hai,fee_structure
+weekend classes hain,programs_offered
+good night,goodbye
+zakat fund scholarship,scholarships
+when does the admission process start,admission_deadline
+good bye,goodbye
+second division wale apply kar sakte hain,eligibility
+test syllabus kya hai,entry_test
+inter 90 test 80 merit,merit_calculation
+good morning,greeting
+day scholar reh sakte hain,hostel
+salam alaikum,greeting
+merit calculate karo,merit_calculation
+shukriya allah hafiz,goodbye
+100 percent scholarship possible hai,scholarships
+PhD kar sakte hain,programs_offered
+mera merit kitna banega,merit_calculation
+hostel facilities kya hain,hostel
+is there any discount on fee,fee_structure
+hostel hai,hostel
+admission kab se start hain,admission_deadline
+need based scholarship,scholarships
+how is it going,smalltalk
+hostel me jagah milegi,hostel
+do you offer BSCS,programs_offered
+salaam,greeting
+diploma programs,programs_offered
+admission ke liye kya kya documents lagte hain,documents_required
+that's all,goodbye
+merit formula kya hai,merit_calculation
+arts programs hain,programs_offered
+abhi apply kar sakta hoon,admission_deadline
+is there an entry test,entry_test
+MDCAT kab hota hai,entry_test
+tum kya ho,smalltalk
+ECAT kya hota hai,entry_test
+MS programs hain,programs_offered
+total cost of BE Electrical,fee_structure
+wifi available hai,campus_life
+library hai,campus_life
+tumhara naam kya hai,smalltalk
+late apply kar sakte hain,admission_deadline
+age limit kya hai,eligibility
+what merit do I need for BS Software Engineering,merit_calculation
+hostel me mess hai,hostel
+deadline extend hogi,admission_deadline
+BBA program available hai,programs_offered
+eligibility criteria batao,eligibility
+good evening,greeting
+documents attest karwane hain,documents_required
+NUST me apply karne ki last date kya hai,admission_deadline
+fee scholarship hai,scholarships
+which entry test is required,entry_test
+BS AI available hai,programs_offered
+morning evening programs,programs_offered
+50 percent marks par admission milega,eligibility
+UET Lahore me BS Software Engineering ka merit kitna hai,merit_calculation
+scholarship ki last date,scholarships
+aoa pakuni,greeting
+entry test ki tayyari kaise karoon,entry_test
+tum kya kar sakte ho,smalltalk
+fee maaf ho sakti hai,scholarships
+fees installment me de sakte hain,fee_structure
+kon se kagaz chahiye,documents_required
+hello pakuni,greeting
+coding club hai,campus_life
+merit kaise calculate hota hai,merit_calculation
+UCP me kon se degree programs hain,programs_offered
+inter marks 800 test 70 merit,merit_calculation
+gap year students apply kar sakte hain,eligibility
+entry test hota hai,entry_test
+what is your name,smalltalk
+test pattern kya hai,entry_test
+tum kaise ho,smalltalk
+are you a robot,smalltalk
+merit percentage check karo,merit_calculation
+hostel ke liye apply kaise karoon,hostel
+admission ki akhri tareekh kya hai,admission_deadline
+are you human,smalltalk
+khuda hafiz,goodbye
+mera merit banao,merit_calculation
+ECAT ki tayyari,entry_test
+photos kitni chahiye,documents_required
+what are you,smalltalk
+hostel me room sharing hoti hai,hostel
+girls hostel hai,hostel
+hi,greeting
+ICS wale eligible hain,eligibility
+hostel charges kya hain,hostel
+merit nikal do,merit_calculation
+HEC scholarship apply,scholarships
+per semester fee kitni hai,fee_structure
+spring admissions kab hote hain,admission_deadline
+test centre kahan hota hai,entry_test
+PM scholarship,scholarships
+transcript chahiye hota hai,documents_required
+kon se courses hain,programs_offered
+migration certificate kya hai,documents_required
+entry test ke baghair admission,entry_test
+aoa bot,greeting
+fee kitni hai BSCS ki,fee_structure
+fees kitni hai,fee_structure
+admissions kab open hongi,admission_deadline
+hi bot,greeting
+hello there,greeting

@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+model.pkl
+metrics.json
+*.pyc
